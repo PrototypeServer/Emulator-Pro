@@ -1,0 +1,215 @@
+[UPDATE 1]
+- Add PartySearch+Password
+- Add Stats Add Panel
+- Add Reset Stats+Master Reset
+- Add JewelBank
+- Fix Antiflood System
+- Add Achievements System
+- Add Quest System Window
+- Fix Dupe Chaos Machine
+- Add EventTimer v2
+- Add CustomArcher
+- Add PK System
+- Add Premium Drop
+- Add Effect Move
+- Add ShopPointEx
+- Add Zen Drop
+- Add MasterExp in ExpierenceTable.txt
+- Add Ranking v2
+- Add FruitSystem
+- Add PersonalShopSearch
+[UPDATE 2]
+- Fix Weather Effect
+- Fix Accept Guild Assistant can accept request
+- Add Disable Skill
+- Add Skill Damage
+- Fix Town Portal
+- Fix Elf Buffer "You are already blessed"
+- Fix Combo Push Effect
+- Fix Fix ViewPort GuildUnion and Taget Guild Union
+- Switch On/Off PvP in Raklion Event Boss Map (GameServerInfo - Event.dat)
+- Add Enable/Disable PVP in GM Status (GameServerInfo - Common.dat) 
+- Add Command Set PK
+- Add SelfDefenseTime PK
+- Add ItemDropPickUpTime (GameServerInfo - Common.dat) 
+- Add Command Set Level Player
+- Fix Buff Skill in Event Maps Blood Castle, Illusion Temple
+- Fix Message Global Event Kanturu
+- Fix GM Wing on Blood castle
+- Fix trade request when dying
+- Fix move when is stuned
+- Fix Switch character when dying
+- Switch On/Off Remove Battle Zone (Move System) (MainInfo.ini)
+[UPDATE 3]
+- Add Start Gate in DefaultClassInfo.txt
+- Add Change Class
+- Add Party Set Leader
+- Add Party Trace Player
+- Add Bot Alchemist
+- Add Bot Trader
+- Add GuardMessage (GameServerInfo - Common.dat) 
+- Add Delete Dupe Item (GameServerInfo - Common.dat) 
+- Add Disconect Dupe Item (GameServerInfo - Common.dat)
+- Add CRC Check GameServer side (GameServerInfo - Common.dat)
+- Add MAX_HWID Connection (GameServerInfo - Common.dat)
+[UPDATE 4]
+- Add GensSystem Exit Time (GameServerInfo - Common.dat)
+- Add GensSystem Self Gens Damage (GameServerInfo - Common.dat)
+- Add PKSystem, OffTrade, Reset, MasterExp Enable in MapManager.txt
+- Add Reset System NPC
+[UPDATE 5]
+- Add MonsterDamageRate (GameServerInfo - Common.dat)
+- Add MonsterDefenseRate (GameServerInfo - Common.dat)
+- Add ElfBufferTime (GameServerInfo - Common.dat)
+- Add PartyDivideZen (GameServerInfo - Common.dat)
+- Add CreateCoinWhenZenIsMax (GameServerInfo - Common.dat)
+- Add PotionDelay (GameServerInfo - Common.dat)
+- Add ElfBufferEnableQuest (GameServerInfo - Common.dat)
+- Add Custom Warehouse Interface (GameServerInfo - Custom.dat)
+- Fix Show Ping
+- Add NewHealthBar Player/Monster/Guild/Party
+- Add MonsterHealthBar Color (MainInfo.ini)
+- New 3D Camera with better view
+- Default Camera range view when enter character (MainInfo.ini)
+- Add Settings Interface
+- Add New Menu Interface
+[UPDATE 6]
+- DisableBCDSCCMaster (MainInfo.ini)
+- Disable380MixChaosMachine (MainInfo.ini)
+- DisableWCoinCCashShop (MainInfo.ini)
+- DisableWCoinPCashShop (MainInfo.ini)
+- DisableWCoinGCashShop (MainInfo.ini)
+- Unicode (MainInfo.ini)
+- MiniMapHover (MainInfo.ini)
+- ChangeMGLevel (MainInfo.ini)
+- CustomSelectServerX700 (MainInfo.ini)
+[UPDATE 7]
+- Fix UI Buttons Menu, Camera, Camera Reset
+- Fix Party Buffs
+- Fix Santa Village
+- Fix Vulcanus Map visible range
+- Add Monsters show to Minimap
+[UPDATE 8]
+- Fix Equip CustomPet (It was not displayed when equipping it on another screen.)
+- Fix Monster/Player Healtbar Switch ON/OFF (GameServerInfo - Common.dat)
+- Add Swamp Event
+- Add Sky Event
+- Add Happy Hours Event
+- Fix Ram GameServer, GameServerCS
+- Add CustomEarthQuake
+[UPDATE 9]
+- Fix Zyro Quest
+- Fix PartySearch Password
+- Fix button close Buy Vip
+- Add PacketCheckTime
+[UPDATE 10]
+- Fix Command Set PK
+- Fix Command Set Level
+- Fix Flying Dragons
+- Fix UI buggs
+[UPDATE 11]
+- Show NamePlayer+Guild Mark (MainInfo.ini)
+- Fix Summon Party closes the CS Gate
+- Global Message Expanded
+- Fix Error evolution skin model
+- Add Show Master Level in Character Panel (MainInfo.ini)
+- Add Show Reset in Character Panel (MainInfo.ini)
+[UPDATE 12]
+- Added Smithy BETA 1
+- Fixed Party Trace/Leader Buttons
+- Fixed Smithy BETA 1 (HOT FIX)
+- Added to Smithy MaxExcOptions
+- Fixed Smithy BETA 1 dont delete coins
+[UPDATE 13]
+- Fixed Smithy delete coins refresh
+- Add NPC to Smithy (FINAL VERSION)
+- Add Teleport Panel BETA 1
+[UPDATE 14]
+- Fixed RIGHT+CLICK Move Items
+- Fixed RespawnLocation
+[UPDATE 15]
+- Add Buffer System NPC
+- Add Map Teleport System (M key Move)
+- Add Teleport System NPC
+- Add PK Clear NPC
+- Fixed buttons PartyTrace in all Interface Custom
+- Deleted Old Menu (Not need)
+- Add New CustomStartItem.xml
+[UPDATE 16]
+- Add Grand Reset System NPC
+- Add Lucky Wheel
+- Add FakeBot System
+- Fixed Teleport Panel NPC (New Custom Maps)
+[UPDATE 17]
+- Added Command /addbuff /delbuff
+- Fixed DL Summon Party Skill (PK)
+- Add PK Disable Shop
+- Add PK Disable Trade
+- Fixed GrandReset Achievements
+- Added MasterSkillTreeCharacterLevel
+- Added MasterSkillTreeCharacterReset
+- Added MasterSkillTreeCharacterGrandReset
+- Updated ResetTable for GrandReset
+- Added to InvasionManager Alert Time
+[UPDATE 18]
+- Fixed Select Character S13
+- Add Press Middle Mouse button to add stats quickly
+- Updated ChangeClass Inventory Check and GrandResetSystem Points back
+- Updated ShopPoint to Ruud price and ImperialGuardian Deleted price for 2ndStage (BUGG)
+- Fixed Smithy MaxLevel, MaxExc
+- Fixed Buy Item from Smithy [Achievements]
+- Dialog Box Moves
+- Fixed MapTeleport
+[UPDATE 19]
+- Fixed MapTeleport cant move with no wings Icarus and minor fixes
+- FIxed TeleportPanel cant move with no wings Icarus and minor fixes
+- Updated CustomNPCmove to Item need
+[UPDATE 20]
+- Fixed EXP Bar
+- Fixed ResetStats Visual Bug
+- Fixed ResetSystem Calculation formula
+- Fixed manual left click mouse move to Warehouse
+- Updated new HealthBar Level, HP Monster and change color font for Monsters
+- Added Option Panel with change Resolution, Font and Disabled Options
+- Updated New Font
+- Fixed TimeBar
+- Added To MainInfo Cinematic HD Resolution SelectServer/Character
+- Fixed MapTeleport, need Wings to move Icarus
+- Updated JewelBank (Need restore new Database to use)
+- Fixed Ruud Shop
+- Fixed PartySearch cant make Party without Password, now fixed
+[UPDATE 21]
+- Updated and Fixed UserPanel
+- Updated HealthBar positions
+- Updated Ranking positions
+- Added MuunPet Inventory + MuunSupport FULL
+- Updated FakeBotSystem FULL Options
+- Added On/Off Custom Quest Window Info in Settings
+- Fixed Level Up after 3rd Quest
+- Back to the lua Font and Disabled Option Panel due to repair
+- Fixed PersonalShopSearch buy in other maps
+[UPDATE 22]
+- Added Castle Siege Mini (CTCMini)
+- Added Item Market
+- Added Monster Quest
+- Added Pandora Box Event
+[UPDATE 23]
+- TimeBar good positions
+- Added CTC Mini missed files
+- Added BattleRoyale Event
+- Added BattleSurvivor Event
+- Added Custom Jewel Upgrade
+[UPDATE 24]
+- Add BotStore
+- Add Emoji System
+- Fix FakeBotSystem
+- Fix Summon DL 
+- Add New Menu
+[UPDATE 25]
+- Fix BattleRoyale
+- Fix CTC Mini 
+- Fix BattleSurvivor
+[UPDATE 26]
+- Fixed MonsterQuest (Run Query from Server/Database)
+- Fixed 100% Item Market
+- Fixed Logo GUILD
